@@ -1,0 +1,82 @@
+<resources>
+    <!-- [Login Strings] -->
+    <string name="app_name">MiniTwitter</string>
+    <string name="hint_email">email</string>
+    <string name="hint_password">password</string>
+    <string name="button_login">LOGIN</string>
+    <string name="register_account_text">Create new account</string>
+    <string name="start_session_string">Start session as registered user</string>
+    <!-- [Sign Up Strings] -->
+    <string name="button_signup">SIGNUP</string>
+    <string name="hint_user_name">user name</string>
+    <string name="user_name_validation_failed_by_empty">User name is required</string>
+    <string name="user_name_validation_failed_by_format">User name is incorrect</string>
+    <string name="email_validation_failed_by_empty">Email address is required</string>
+    <string name="email_validation_failed_by_format">Email format is incorrect</string>
+    <string name="password_validation_failed_by_empty">Password is required</string>
+    <string name="password_validation_failed_by_format">Password format is incorrect</string>
+    <!-- [Request Result Messages] -->
+    <string name="request_callback_failure">Request failure</string>
+    <string name="connection_failure">Connection failure</string>
+    <string name="login_failed">Authentication failed</string>
+    <string name="registration_failed">Registration failed</string>
+    <string name="request_tweet_creation_failure">Tweet not created</string>
+    <string name="request_generic_failure">Something has failed</string>
+    <!-- [navigation Strings] -->
+    <string name="title_activity_dashboard">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_only_for_use">OnlyForUseActivity</string>
+    <!-- [New Tweet Dialog] -->
+    <string name="button_tweet_text">Tweet</string>
+    <string name="hint_new_tweet">What\'s going on?</string>
+    <string name="message_is_empty_notice">Write something</string>
+    <!-- [Confirmation Dialog] -->
+    <string name="confirmation_dialog_title">Confirmation</string>
+    <string name="confirmation_dialog_cancel">Are sure you want cancel operation?</string>
+    <string name="confirmation_dialog_continue">Are sure you want continue with operation?</string>
+    <string name="confirmation_dialog_button_ok">ok</string>
+    <string name="confirmation_dialog_button_cancel">cancel</string>
+    <!-- [Tweet Deletion] -->
+    <string name="message_tweet_deletion_failed">Tweet has not been deleted!</string>
+    <!-- [Bottom Modal Menu] -->
+    <string name="bottom_modal_menu_delete_tweet">Delete tweet</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="toolbar_title_text">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- [User Profile]: controls -->
+    <string name="hint_profile_user_name">user name</string>
+    <string name="hint_profile_email">email</string>
+    <string name="hint_profile_website">website</string>
+    <string name="hint_profile_description">description and relative</string>
+    <string name="hint_profile_button_save_data">save</string>
+    <string name="hint_profile_button_modify_password">modify password</string>
+    <!-- [User Profile]: validation messages -->
+    <string name="profile_validation_user_name_empty">user name is empty</string>
+    <string name="profile_validation_user_name_wrong_format">user name has wrong format</string>
+    <string name="profile_validation_user_email_empty">user email is empty</string>
+    <string name="profile_validation_user_email_wrong_format">user email has wrong format</string>
+    <string name="profile_validation_user_website_empty">user website is empty</string>
+    <string name="profile_validation_user_website_wrong_format">user website has wrong format</string>
+    <string name="profile_validation_user_description_empty">user description is empty</string>
+    <string name="profile_validation_user_description_wrong_format">user description has wrong format</string>
+    <string name="profile_validation_user_password_empty">user password is empty</string>
+    <string name="profile_validation_user_password_wrong_format">user password has wrong format</string>
+    <string name="profile_action_message_updating">Updating data...</string>
+    <string name="profile_action_message_updated">Data updated</string>
+    <!-- [Dialog Permission]: permission verification dialog messages -->
+    <string name="dialog_permission_check_title">Permissions</string>
+    <string name="dialog_permission_check_message">Permission is needed in order to select a photo for user profile</string>
+    <string name="dialog_permission_check_button_accept">OK</string>
+    <string name="dialog_permission_check_button_cancel">Cancel</string>
+    <!-- [Photo Upload]: user profile photo upload related messages -->
+    <string name="photo_selection_access_denied">Can not access to photo gallery</string>
+</resources>

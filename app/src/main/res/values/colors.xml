@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/colorMiniTwitterBlue</color>
+    <color name="colorPrimaryDark">#4C4C4C</color>
+    <color name="colorAccent">@color/colorMiniTwitterDarkBlue</color>
+    <color name="colorMiniTwitterBlue">#0F7EDD</color>
+    <color name="colorMiniTwitterDarkBlue">#0D5CA2</color>
+    <color name="colorLikeDisabled">#AAAAAA</color>
+    <color name="colorMeLikes">#E0245E</color>
+    <color name="colorTweetDivider">#DDDDDD</color>
+</resources>
